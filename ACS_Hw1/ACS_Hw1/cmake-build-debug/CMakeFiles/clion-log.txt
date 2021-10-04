@@ -1,0 +1,4 @@
+/Users/semenkondakov/Desktop/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/semenkondakov/CLionProjects/Algorithms/ACS_Hw1/ACS_Hw1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/semenkondakov/CLionProjects/Algorithms/ACS_Hw1/ACS_Hw1/cmake-build-debug
